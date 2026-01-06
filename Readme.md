@@ -1,6 +1,6 @@
-# Tongji 2025 Fall CEA810401各向异性弹性力学（Prof. Nie）
+# Tongji 2025 Fall CEA810401各向异性弹性力学
 
-本项目用于存档是Dawsine的Tongji 2025 Fall CEA810401各向异性弹性力学课程作业
+本项目用于存档Dawsine的Tongji Unv. 2025 Fall CEA810401各向异性弹性力学（by Prof. Nie）的课程作业
 
 非常好板壳力学求解方法进阶，嘎嘎好用
 
